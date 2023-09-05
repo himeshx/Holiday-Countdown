@@ -33,6 +33,6 @@ The Holiday Countdown Web App is a delightful and interactive project developed 
 - Under section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, teaching, education, scholarship and research. Fair use is a use permitted by the copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.   
 ----
 <div align="center">
-<img width="500px" height="395px" src="Readme Resources/countdown.gif"/>
+<img width="600px" height="295px" src="Readme Resources/countdown.gif"/>
 </div>
 
