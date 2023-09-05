@@ -1,4 +1,8 @@
-#  Holiday Countdown
+<h1 align="center">
+    <b>
+  Holiday Countdown     <!--The title for my project.--> 
+    </b>
+  </h1>
 
 <h2 align="left">
      <b>
